@@ -25,6 +25,7 @@
   vars:
       # VARIABLES TO EDIT
       vault_iface: eth1
+      vault_address: "104.131.78.234"
       vault_datacenter: "lab"
       vault_domain: "consul"
       # CONSTANTS
