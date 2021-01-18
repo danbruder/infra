@@ -1,5 +1,5 @@
-server01.consul ansible_host=192.168.0.111
-server02.consul ansible_host=192.168.0.112
+server01.consul ansible_host=104.131.78.234
+server02.consul ansible_host=104.131.115.56
 
 [consul_instances]
 server01.consul consul_node_role=bootstrap
